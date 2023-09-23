@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nginx:alpine
+        image: aditirvan/adhithia-svc:1.23
         resources:
           limits:
             memory: "128Mi"
