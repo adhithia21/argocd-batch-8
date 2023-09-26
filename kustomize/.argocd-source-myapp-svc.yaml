@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - aditirvan/adhithia-svc:1.25
